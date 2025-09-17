@@ -73,7 +73,7 @@
     },
     "FREEMIUM_LIMIT": {
       "description": "Limit for freemium users (in MB or desired unit)",
-      "value": "0",
+      "value": "10000000",
       "required": false
     },
     "PREMIUM_LIMIT": {
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
